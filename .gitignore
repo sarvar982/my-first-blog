@@ -13,7 +13,6 @@ venv/
 db.sqlite3
 
 # Static folder at project root
-/static/
 
 Thumbs.db*
 ehthumbs*.db
